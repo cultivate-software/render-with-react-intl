@@ -220,7 +220,7 @@ Wraps component under test in a React `IntlProvider` that is configured with the
 
 ## Issues
 
-Looking to contribute? Checkout this project's [Issues](https://github.com/cultivate-software/render-with-react-intl/issues?q=is%3Aissue+is%3Aopen) on GitHub.
+Looking to contribute? PRs are welcome. Checkout this project's [Issues](https://github.com/cultivate-software/render-with-react-intl/issues?q=is%3Aissue+is%3Aopen) on GitHub for existing issues.
 
 ### 🐛 Bugs
 
