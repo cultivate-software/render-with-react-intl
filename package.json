@@ -1,6 +1,6 @@
 {
   "name": "@render-with/react-intl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Render decorators for components under test that require a React IntlProvider.",
   "keywords": [
     "testing",
