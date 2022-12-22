@@ -57,7 +57,7 @@
     "react-intl": "^6.2.5"
   },
   "dependencies": {
-    "@render-with/decorators": "1.1.2"
+    "@render-with/decorators": "^1.0.1"
   },
   "devDependencies": {
     "@babel/cli": "7.19.3",
