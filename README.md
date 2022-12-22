@@ -3,7 +3,6 @@
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cultivate-software/render-with-react-intl/release.yml?branch=main)
 ![Code Coverage](docs/coverage-badge.svg)
 ![npm (scoped)](https://img.shields.io/npm/v/@render-with/react-intl)
-![npm](https://img.shields.io/npm/dw/@render-with/react-intl)
 ![NPM](https://img.shields.io/npm/l/@render-with/react-intl)
 ![PRs welcome](https://img.shields.io/badge/PRs-welcome-bright%20green)
 
