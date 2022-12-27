@@ -13,6 +13,7 @@
     "functional",
     "decorator",
     "wrapper",
+    "provider",
     "intl",
     "i18n"
   ],
