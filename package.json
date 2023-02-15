@@ -52,7 +52,7 @@
     "release": "semantic-release"
   },
   "engines": {
-    "node": ">=16"
+    "node": ">=18"
   },
   "peerDependencies": {
     "react-intl": "6.2.8"
@@ -79,7 +79,7 @@
     "make-coverage-badge": "1.2.0",
     "open-cli": "7.1.0",
     "react-intl": "6.2.8",
-    "semantic-release": "19.0.5"
+    "semantic-release": "20.1.0"
   },
   "publishConfig": {
     "access": "public"
