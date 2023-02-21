@@ -28,6 +28,7 @@ _Note: Refer to the [core library](https://github.com/cultivate-software/render-
 - [Test Scenarios](#test-scenarios)
 - [API](#api)
 - [Issues](#issues)
+- [Changelog](#changelog)
 - [Contributors](#contributors)
 - [LICENSE](#license)
 
@@ -245,6 +246,10 @@ Please file an issue on the core project to suggest additional libraries that wo
 For questions related to using the library, file an issue on GitHub.
 
 [See Questions](https://github.com/cultivate-software/render-with-react-intl/issues?q=is%3Aissue+label%3Aquestion+sort%3Areactions-%2B1-desc)
+
+## Changelog
+
+Every release is documented on the GitHub [Releases](https://github.com/cultivate-software/render-with-react-intl/releases) page.
 
 ## Contributors
 
