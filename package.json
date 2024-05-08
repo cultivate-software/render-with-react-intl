@@ -52,10 +52,10 @@
     "release": "semantic-release"
   },
   "engines": {
-    "node": ">=18"
+    "node": "^18.20.0 || >=20.0.0"
   },
   "peerDependencies": {
-    "@render-with/decorators": "^4.0.0",
+    "@render-with/decorators": "^5.0.0",
     "react-intl": "^6.2.10"
   },
   "devDependencies": {
@@ -64,7 +64,7 @@
     "@babel/node": "7.22.19",
     "@babel/preset-env": "7.22.15",
     "@babel/preset-react": "7.22.15",
-    "@render-with/decorators": "4.0.0",
+    "@render-with/decorators": "5.0.0",
     "@semantic-release/git": "10.0.1",
     "@testing-library/jest-dom": "6.4.5",
     "@testing-library/react": "15.0.7",
