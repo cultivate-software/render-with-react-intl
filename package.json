@@ -68,7 +68,7 @@
     "@semantic-release/git": "10.0.1",
     "@testing-library/jest-dom": "6.5.0",
     "@testing-library/react": "15.0.7",
-    "eslint-plugin-import": "2.29.1",
+    "eslint-plugin-import": "2.30.0",
     "eslint-plugin-jest": "27.4.3",
     "eslint-plugin-jest-dom": "5.4.0",
     "eslint-plugin-react": "7.35.2",
